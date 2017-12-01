@@ -25,7 +25,6 @@ Final project writeup
     - `app.py`: contains the web application that is deployed on heroku
     - `reported_cases_map.html`: map produced from `STI infection Rates Map.ipynb`
     - `incidence map.html`: map produced from `Incidence Map.ipynb`
-    
     - `data-sources`: folder with all relevant data needed for web application development and analysis
     - `graphs`: contains the .png versions of the graphs generated during the analysis. It does not contain the interactive plotly maps from the web app. 
  
@@ -38,5 +37,6 @@ Final project writeup
 
 ### Analysis and Model:
 
+[Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
 ## Conclusion
 
