@@ -1,4 +1,6 @@
-# hipp_final_project
+# Introduction to Programming For Public Policy Final Project
+### Abby Eskanazi, Charlie Crowther, Tom Curran
+Final project writeup
 
 
 
