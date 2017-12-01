@@ -1,5 +1,5 @@
 # Introduction to Programming For Public Policy Final Project
-### Abby Eskanazi, Charlie Crowther, Tom Curran
+### Abby Eskenazi, Charlie Crowther, Tom Curran
 Final project writeup
 
 ## Project Summary
