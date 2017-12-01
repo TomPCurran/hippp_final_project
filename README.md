@@ -37,6 +37,19 @@ Final project writeup
 
 ### Analysis and Model:
 
-![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
+![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
+
+![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph12.png?raw=true)
+
+![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2014] (https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph16.png?raw=true)
+
+![Incidence Rate of Male Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph19.png?raw=true)
+
+![Incidence Rate of Male Gonorrhea and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph20.png?raw=true)
+
+![Incidence Rate of Male Chlamydia and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph23.png?raw=true)
+
+![Incidence Rate of Male Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph24.png?raw=true)
+
 ## Conclusion
 
