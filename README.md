@@ -37,6 +37,6 @@ Final project writeup
 
 ### Analysis and Model:
 
-[Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
+![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
 ## Conclusion
 
