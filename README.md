@@ -41,6 +41,8 @@ Final project writeup
 
 ![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph12.png?raw=true)
 
+###place holder for Female Gonorrhea 2013
+
 ![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2014] (https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph16.png?raw=true)
 
 ![Incidence Rate of Male Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph19.png?raw=true)
