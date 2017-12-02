@@ -44,6 +44,20 @@ Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by 
     - `data-sources`: folder with all relevant data needed for web application development and analysis
     - `graphs`: contains the .png versions of the graphs generated during the analysis. It does not contain the interactive plotly maps from the web app. 
  
+ - data_source:
+    - `centers2.csv`: file with geocode center data
+    - `centers_clean.csv`: cleaned version of centers2 with more appropriate information
+    - `chlamydia_females.csv`: the data set downloaded from the chicago data portal as described above
+    - `gonorrhea_female.csv`: the data set downloaded from the chicago data portal as described above
+    - `chlamydia_males.csv`: the data set downloaded from the chicago data portal as described above
+    - `gonorrhea_males.csv`: the data set downloaded from the chicago data portal as described above
+    -`community_areas.geojson`: the geojson file used in the exploratory tool maps
+    - `condom_dist.csv`: raw file downloaded from data portal
+    - `condom_dist_u.csv`: annotated version of raw file used for project planning purposes
+    - `incidences_sti.csv`: transformed and merged data sets of all incidences in community areas for both STIs and genders
+    - `reported_cases.csv`: transformed and merged data sets of all reported cases in community areas for both STI and gender
+    - `sti_df.csv`: concatenated version of `incidence_sti.csv` and `reported_cases.csv`
+    
 ## Investigation
 
 ### Exploratory Tool:
@@ -51,15 +65,21 @@ Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by 
 
 We created a tool that allows user to conduct exploratory data analysis using the data sets collected from the Chicago data portal. The tool consists of several parts:
 
-1) Number of Reported Cases by Community Area
-2) Incidence of STI by Community Area
-3) Trends in Reported Cases from 2000 - 2014
-4) Trends in Incidence of STI from 2000 - 2014
-5) Choropleth Maps 
-    - Reported Cases Map
-    - Incidence Map
- 6) Number of Condom Distribution Centers by Community Area
+  1) Number of Reported Cases by Community Area
 
+  2) Incidence of STI by Community Area
+
+  3) Trends in Reported Cases from 2000 - 2014
+
+  4) Trends in Incidence of STI from 2000 - 2014
+
+  5) Choropleth Maps 
+      - Reported Cases Map
+      - Incidence Map
+      
+   6) Number of Condom Distribution Centers by Community Area
+
+The graphs in the Exploratory tool used the data set generated in the notebooks `STI Infection Rates Map.ipynb` and `Incidence Map.ipynb`. The data had been transformed from wide to long in order to make the data structure easier to filter using the Plotly Dash API ([here](https://plot.ly/products/dash/)). The exploratory file uses the geocodes from the `centers_clean.csv` data set, and the transformed to long data sets `incidences.csv` and `reported_cases.csv`. 
 
 ### Analysis and Model:
 
