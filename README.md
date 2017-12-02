@@ -44,6 +44,8 @@ Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by 
     - `data-sources`: folder with all relevant data needed for web application development and analysis
     - `graphs`: contains the .png versions of the graphs generated during the analysis. It does not contain the interactive plotly maps from the web app. 
  
+ - graphs: image resources for the README.md, graphs are also generated through notebooks. 
+ 
  - data_source:
     - `centers2.csv`: file with geocode center data
     - `centers_clean.csv`: cleaned version of centers2 with more appropriate information
@@ -58,6 +60,7 @@ Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by 
     - `reported_cases.csv`: transformed and merged data sets of all reported cases in community areas for both STI and gender
     - `sti_df.csv`: concatenated version of `incidence_sti.csv` and `reported_cases.csv`
     
+
 ## Investigation
 
 ### Exploratory Tool:
