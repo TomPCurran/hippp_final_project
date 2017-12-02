@@ -63,19 +63,19 @@ We created a tool that allows user to conduct exploratory data analysis using th
 
 ### Analysis and Model:
 
-###**Regression Analysis**
+**Regression Analysis**
 The analysis was performed using python, pandas, seaborn, and statsmodels.
 
 We separately regressed the incidence rate of chlamydia and gonorrhea among men and women in all 77 community areas in Chicago on the number of condom distribution centers in each community area. Although the STI datasets include incidence rates from 2000 to 2014, we only used the data from 2013 and 2014 because the condom distribution center data was updated in 2013. We assume that these condom distribution centers existed as of 2013.
 
 We did not find a significant correlation between STI incidence rate and number of condom distribution centers. This was true in the years 2013 and 2014 for the incidence rates of male gonorrhea, female gonorrhea, male chlamydia and female chlamydia. As shown in the statistical tables, every R-squared measure is less than .1, demonstrating that the number of condom distribution centers explains a minimal amount of the variation in STI incidence rates.
 
-###**Outlier Identified**:
+**Outlier Identified**:
 The community area of Lakeview is an outlier both in the number of condom distribution centers within its boundary (18) and the low incidence of chlamydia and gonorrhea among men and women in 2013 and 2014. Although Lakeview is clearly differentiated from the group, the pull of the outlier is not strong enough to skew the results into being significant, so we did not choose to remove the outlier as a part of our analysis.
 
 We also recognize that this analysis is not complete because we did not control for other outside factors. To improve the analysis, we could control for race, poverty rate, education level, sex education models, and culture, using OLS and/or fixed effects.
 
-
+### Plots and Regression Tables:
 
 ![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
 
@@ -89,7 +89,7 @@ We also recognize that this analysis is not complete because we did not control 
 
 ***
 
-![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph15_2.png?raw=true
+![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph15_2.png?raw=true)
 
 ![Regression of Incidence Rate of Female Gonorrhea and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Female%20Gon%202013%20REg.png?raw=true)
 
