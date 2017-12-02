@@ -6,7 +6,7 @@ We will merge the condom distribution site dataset with all of the STI case data
 
 ## Project Summary
 
-## Motivation: 
+### Motivation: 
 One of the most effective ways to prevent STIs is using latex condoms. According to a 2006 study by Warner, Stone, et.al, condom use is associated with a lower risk of chlamydia and gonorrhea. However, there are still sexually active people who do not use them, perhaps due to a lack of education, availability, and/or prohibitive costs. To examine whether distance and cost act as barriers, we look at whether the number of free condom distribution sites per community area is related to gonorrhea and chlamydia incidence rates for men and women in the years 2013 and 2014.
 
 ### Project Goals:
@@ -21,15 +21,13 @@ One of the most effective ways to prevent STIs is using latex condoms. According
 ### Sources:
 Condom Distribution Sites: This dataset lists several locations across the city where the Chicago Department of Public Health distributes condoms. The data was last updated in November of 2013, which influenced the data we used from the other datasets in our analysis.
 
-Public Health Statistics- Chlamydiacases among males aged 15-44 in Chicago, by year, 2000-2014. This dataset lists the annual number of newly reported, laboratory-confirmed cases of chlamydia among males aged 15 to 44 years as well as annual chlamydia incidence rate (cases per 100,000 males aged 15 to 44 years) by Chicago community area, for years 2000 to 2014.[here](https://data.cityofchicago.org/api/views/35yf-6dy3/files/99f0a9d9-330b-4c1d-abab-6c37302d8e19?download=true&filename=CHLAMYDIA_MALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
-
+Public Health Statistics- Chlamydiacases among males aged 15-44 in Chicago, by year, 2000-2014. This dataset lists the annual number of newly reported, laboratory-confirmed cases of chlamydia among males aged 15 to 44 years as well as annual chlamydia incidence rate (cases per 100,000 males aged 15 to 44 years) by Chicago community area, for years 2000 to 2014. [here](https://data.cityofchicago.org/api/views/35yf-6dy3/files/99f0a9d9-330b-4c1d-abab-6c37302d8e19?download=true&filename=CHLAMYDIA_MALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
 
 Public Health Statistics- Chlamydia cases among females aged 15-44 in Chicago, by year, 2000-2014: This dataset lists the annual number of newly reported, laboratory-confirmed cases of chlamydia among females aged 15 to 44 years old as well as annual chlamydia incidence rate (cases per 100,000 females aged 15 to 44 years) by Chicago community area, for years 2000 to 2014. [here](https://data.cityofchicago.org/api/views/bz6k-73ti/files/4e6db1e1-2014-4a50-9184-997bcd6e969b?download=true&filename=CHLAMYDIA_FEMALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
 
-Public Health statistics- Gonorrhea cases for males aged 15-44 in Chicago, by year, 2000-2014. The annual number of newly reported, laboratory-confirmed cases of gonorrhea among males aged 15 to 44 years as well as annual gonorrhea incidence rate (cases per 100,000 males aged 15-44 years) by Chicago community area, for years 2000 to 2014.[here](https://data.cityofchicago.org/api/views/m5qn-gmjx/files/02497fbf-f6ab-4f94-81d4-92dd1f64ca17?download=true&filename=GONORRHEA_MALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
+Public Health statistics- Gonorrhea cases for males aged 15-44 in Chicago, by year, 2000-2014. The annual number of newly reported, laboratory-confirmed cases of gonorrhea among males aged 15 to 44 years as well as annual gonorrhea incidence rate (cases per 100,000 males aged 15-44 years) by Chicago community area, for years 2000 to 2014. [here](https://data.cityofchicago.org/api/views/m5qn-gmjx/files/02497fbf-f6ab-4f94-81d4-92dd1f64ca17?download=true&filename=GONORRHEA_MALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
 
 Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by year, 2000-2014. The annual number of newly reported, laboratory-confirmed cases of gonorrhea among females aged 15 to 44 years as well as annual gonorrhea incidence rate (cases per 100,000 females aged 15-44 years) by Chicago community area, for years 2000 – 2014. [here](https://data.cityofchicago.org/api/views/cgjw-mn43/files/f8dc78d5-09fb-4ef7-8eee-62fc45763bac?download=true&filename=GONORRHEA_FEMALES_AGED_15_44_2000_2014_Dataset_Description.pdf)
-
 
 ### Repo Structure
 
@@ -46,7 +44,6 @@ Public Health Statistics- Gonorrhea cases for females aged 15-44 in Chicago, by 
     - `data-sources`: folder with all relevant data needed for web application development and analysis
     - `graphs`: contains the .png versions of the graphs generated during the analysis. It does not contain the interactive plotly maps from the web app. 
  
-
 ## Investigation
 
 ### Exploratory Tool:
@@ -59,9 +56,8 @@ We created a tool that allows user to conduct exploratory data analysis using th
 3) Trends in Reported Cases from 2000 - 2014
 4) Trends in Incidence of STI from 2000 - 2014
 5) Choropleth Maps 
-  - Reported Cases Map
-  - Incidence Map
-  
+    - Reported Cases Map
+    - Incidence Map
  6) Number of Condom Distribution Centers by Community Area
 
 
@@ -98,4 +94,9 @@ We also recognize that this analysis is not complete because we did not control 
 ![Incidence Rate of Male Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph24.png?raw=true)
 
 ## Conclusion
+
+Conclusion
+
+We did not find a statistically significant relationship between STI incidence rates and proximity to condom distribution centers for any of the combinations of STIs and gender. The fact that we did not control for other variables is one reason that these results may not have been statistically significant. If we were to continue with this project, we would include a number of additional regressors as discussed prior. The inclusion of these regressors would provide a richer analysis of the relationships explored in this project.
+
 
