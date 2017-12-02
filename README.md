@@ -79,19 +79,48 @@ We also recognize that this analysis is not complete because we did not control 
 
 ![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph11.png?raw=true)
 
+![Regression of Incidence Rate of Female Chlamydia and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Female%20Chlamydia%20stats%202013.png?raw=true)
+
+*** 
+
 ![Incidence Rate of Famle Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph12.png?raw=true)
 
-###place holder for Female Gonorrhea 2013
+![Regression of Incidence Rate of Female Chlamydia and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Female%20Chl%202014%20Reg.png?raw=true)
+
+***
+
+![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph15_2.png?raw=true
+
+![Regression of Incidence Rate of Female Gonorrhea and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Female%20Gon%202013%20REg.png?raw=true)
+
+***
 
 ![Incidence Rate of Female Gonorrhea and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph16.png?raw=true)
 
+![Regression of Incidence Rate of Female Gonorrhea and Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Female%20Gon%202014%20Reg.png?raw=true)
+
+***
 ![Incidence Rate of Male Gonorrhea and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph19.png?raw=true)
+
+![Regression of Incidence Rate of Male Chlamydia and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Male%20Gonorrhea%20stats%202013.png?raw=true)
+
+***
 
 ![Incidence Rate of Male Gonorrhea and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph20.png?raw=true)
 
+![Regression of Incidence Rate of Male Gonorrhea and Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Male%20Gonorrhea%20stats%202014.png?raw=true)
+
+**
+
 ![Incidence Rate of Male Chlamydia and Number of Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph23.png?raw=true)
 
+![Regression of Incidence Rate of Male Chlamydia and Condom Distribution Centers 2013](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Male%20Chlamydia%20stats%202013.png?raw=true)
+
+***
+
 ![Incidence Rate of Male Chlamydia and Number of Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/graph24.png?raw=true)
+
+![Regression of Incidence Rate of Male Chlamydia and Condom Distribution Centers 2014](https://github.com/TCurran4589/hippp_final_project/blob/master/graphs/Male%20Chlamydia%20stats%202014.png?raw=true)
 
 ## Conclusion
 
